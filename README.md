@@ -1,8 +1,33 @@
-# React + Vite
+# Contagem Regressiva com React e Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples de contagem regressiva desenvolvido em React utilizando Vite. O objetivo é demonstrar o uso de componentes, React Hooks e o ambiente de desenvolvimento rápido fornecido pelo Vite.
 
-Currently, two official plugins are available:
+## Pré-requisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+## Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/contagem-regressiva-react-vite.git
+   npm create vite@latest . --template react
+   npm install
+   npm run dev
+
+## Uso
+
+1. Abra o navegador e acesse localhost
+
+## Tecnologias utilizadas
+
+1. React
+2. Vite
+
+
+
+   
