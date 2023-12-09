@@ -14,7 +14,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/contagem-regressiva-react-vite.git
+   git clone https://github.com/DiogaoxL/Contagem-regressiva.git
    npm create vite@latest . --template react
    npm install
    npm run dev
